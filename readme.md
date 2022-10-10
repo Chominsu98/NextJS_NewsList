@@ -1,0 +1,1 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=3c00f3&height=300&section=header&text=NextJs%20NewsList&fontSize=70&animation=fadeIn&fontAlignY=38&desc=넥스트로%20뉴스리스트구현하기&descAlignY=60&fontColor=ffffff)
