@@ -6,7 +6,7 @@ async function handler(req,res){
     if(req.method==="POST"){
         const data=req.body;
 
-        const client=await MongoClient.connect('mongodb+srv://ChoMinsu:QlwySOE8PqcLQGQ5@cluster0.brpzrb7.mongodb.net/meetups?retryWrites=true&w=majority');
+        const client=await MongoClient.connect('mongodb+srv://ChoMinsu:비밀번호입력@cluster0.brpzrb7.mongodb.net/meetups?retryWrites=true&w=majority');
         //mongoDB에 연결시켜줌
 
         const db=client.db();
